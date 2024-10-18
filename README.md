@@ -4,10 +4,8 @@
 This project involves analyzing COVID-19 death data using SQL. The dataset, sourced from [Our World in Data](https://ourworldindata.org/covid-deaths), contains global COVID-19 death statistics. The goal of the project is to perform various SQL queries to extract meaningful insights from the data, such as total deaths by country, death rates over time, and comparisons between different regions.
 
 ## Technologies Used
-- SQL (PostgreSQL)
-- Our World in Data COVID-19 dataset
-- Jupyter Notebook (Optional, for SQL query execution)
-- Python (Optional, for additional data manipulation and visualization)
+- SQL 
+- Python
 
 ## Dataset Information
 The dataset used in this project is from [Our World in Data](https://ourworldindata.org/covid-deaths) and contains global data on COVID-19 deaths. Some of the key columns include:
@@ -30,5 +28,3 @@ The dataset used in this project is from [Our World in Data](https://ourworldind
    ORDER BY total_deaths DESC;
 
 
-
-This is a project from https://www.youtube.com/@AlexTheAnalyst
